@@ -1,9 +1,9 @@
 ### Hello World! 👋
 
-My name is Allan Flores despite what my username may think. I am a 3rd year RIT student studying Game Design and Development with a graduation date of December 2024. 
+My name is Allan Flores despite what my username may think. I am a 4th year RIT student studying Game Design and Development with a graduation date of December 2024. 
 My interests are not restricted to games however, as my earnest goal is to make things both approachable and fulfilling, whether that be a simple useful tool or an application for entertainment. 
 
-### [Portfolio](https://github.com/BeastlyKoboi/Portfolio/tree/main)
+### [Portfolio](https://people.rit.edu/arf7094/)
 
  - Contains links to my previous projects in web form or as downloadable. 
 
