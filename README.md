@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-My name is Allan Flores despite what my username may think. I am a 4th year RIT student studying Game Design and Development with a graduation date of December 2024. 
+My name is Allan Flores despite what my username may think. I am a 4th year RIT student studying Game Design and Development with a graduation date of May 2025. 
 My interests are not restricted to games however, as my earnest goal is to make things both approachable and fulfilling, whether that be a simple useful tool or an application for entertainment. 
 
 ### [Portfolio](https://people.rit.edu/arf7094/)
@@ -16,8 +16,8 @@ My interests are not restricted to games however, as my earnest goal is to make 
 
 ### I'm Currently Reading 
 
- - The Last Argument of Kings - Joe Abercrombie
- - Leviathan Wakes - James S. A. Corey
+ - Wind and Truth by Brandon Sanderson
+ - The Dungeon Anarchist's Cookbook by Matt Dinniman
 
 
 
